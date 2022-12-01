@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [bilingual](https://github.com/peaksoft-school/bilingual-b6.git)
 
-- 🌱 I’m currently learning **android developer**
+- 🌱 I’m currently learning **java developer**
 
 - 📫 How to reach me **azizapeaksoft@gmail.com**
 
